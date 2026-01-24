@@ -1,6 +1,6 @@
 # ☁️ 1€ Self-Hosted Cloud  
 
-![image](https://github.com/storageproblem.png)
+![image](storageproblem.png)
 
 
 ### Replacing Phone & Laptop Storage with Nextcloud
