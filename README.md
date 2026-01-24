@@ -23,13 +23,13 @@ What I *did* have was:
 - a large hard drive  
 - basic Linux knowledge  
 
-So instead of buying more cloud storage, I built my own personal cloud — for about **€1 per month**.
+So instead of buying more cloud storage, I built my own personal cloud — for about **€1 per month**. 💶
 
 This repository documents that setup.
 
-Not as a perfect solution.  
-Not as an enterprise system.  
-Just something practical that works.
+❕Not as a perfect solution.  
+❕Not as an enterprise system.  
+✅Just something practical that works.
 
 ---
 
