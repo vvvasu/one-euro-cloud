@@ -5,9 +5,9 @@
 
 ### Replacing Phone & Laptop Storage with Nextcloud
 
-Your phone tells you **“Storage almost full”**.  
-Your laptop starts slowing down.  
-Photos, videos, documents — everything competes for space.
+🤔 Your phone tells you **“Storage almost full”**.  
+🤔 Your laptop starts slowing down.  
+🤔 Photos, videos, documents — everything competes for space.
 
 You look at cloud storage plans:
 
@@ -15,7 +15,7 @@ You look at cloud storage plans:
 - €5 there  
 - suddenly it’s another monthly subscription  
 
-I didn’t want that.
+I didn’t want that 🚯
 
 What I *did* have was:
 
