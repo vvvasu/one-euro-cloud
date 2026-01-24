@@ -250,3 +250,4 @@ It’s:
 - under your control  
 
 If you already own unused hardware, this is one of the cheapest ways to stop worrying about storage limits — without handing your data to yet another subscription service.
+-I have not included the technical details here. If you have any questions, please feel free to contact me.-
