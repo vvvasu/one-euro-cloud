@@ -1,4 +1,8 @@
-# ☁️ My €1 Self-Hosted Cloud  
+# ☁️ 1€ Self-Hosted Cloud  
+
+![image](https://github.com/storageproblem.png)
+
+
 ### Replacing Phone & Laptop Storage with Nextcloud
 
 Your phone tells you **“Storage almost full”**.  
