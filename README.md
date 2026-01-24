@@ -29,7 +29,7 @@ This repository documents that setup.
 
 ❕Not as a perfect solution.  
 ❕Not as an enterprise system.  
-✅Just something practical that works.
+✔️ Just something practical that works.
 
 ---
 
@@ -63,15 +63,7 @@ This is for people who are okay with:
 
 ## The problem this solves
 
-Most people hit storage limits in this order:
-
-1. Phone storage fills up (photos & videos)  
-2. Laptop storage fills up  
-3. Cloud subscriptions start stacking up  
-
-The devices still work fine — it’s just storage that’s the problem.
-
-This setup changes that flow:
+Most people hit storage limits. This setup changes that flow:
 
 - Phones upload photos → storage freed  
 - Laptops sync files → disk pressure reduced  
@@ -107,8 +99,9 @@ This setup changes that flow:
       Phones • Laptops • Tablets
 
 **Important:**  
-The VPS never stores your data.  
-It only provides secure access to your home server.
+
+🔹 The VPS never stores your data.  
+🔹 It only provides secure access to your home server.
 
 If you don’t need public access, the VPS is optional.
 
@@ -141,7 +134,7 @@ For many people, LAN-only access is already enough.
 
 ---
 
-## Optional: public access from anywhere
+## Optional: public access from anywhere 🌏
 
 Public access is not mandatory.
 
