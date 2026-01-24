@@ -73,30 +73,31 @@ Most people hit storage limits. This setup changes that flow:
 
 ## High-level architecture
 
-            Internet
-                |
-      (optional public access)
-                |
+              Internet
+                 |
+        (optional public access)
+                 |
           ┌─────────────┐
-          │   Small VPS │  (~€1/month)
+          │   Small VPS │(~€1/month)
           │  (Gateway)  │
           └──────┬──────┘
-                 │  VPN (WireGuard)
+                 │  
+          VPN (WireGuard)
                  │
       ┌──────────▼──────────┐
       │  Home Ubuntu Server │
-      │  (unused laptop)   │
-      │                    │
-      │  Nextcloud (Docker)│
-      │                    │
-      │  Data stored on:   │
-      │  - internal disk  │
-      │  - OR external HDD│
-      └──────────┬─────────┘
+      │  (unused laptop)    │
+      │                     │
+      │  Nextcloud (Docker) │
+      │                     │
+      │  Data stored on:    │
+      │  - internal disk    │
+      │  - OR external HDD  │
+      └──────────┬──────────┘
                  │
-          Local Network (LAN)
+        Local Network (LAN)
                  │
-      Phones • Laptops • Tablets
+    Phones • Laptops • Tablets
 
 **Important:**  
 
